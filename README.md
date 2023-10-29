@@ -1,6 +1,3 @@
-# CS50P
-CS50P Final Project
-
 # HANGMAN GAME
 
 [Video Demo](https://www.youtube.com/watch?v=r8IJjwba2IY)
@@ -38,5 +35,4 @@ Contributions to this repository are generally not accepted, as the project was 
 This project is licensed under the MIT License. Please see the [LICENSE](LICENSE) file for more information.
 
 Enjoy playing Hangman and challenge yourself to guess the hidden words!
-
 
